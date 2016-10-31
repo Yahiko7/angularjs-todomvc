@@ -4,5 +4,9 @@
     "angular": "^1.5.8",
     "todomvc-app-css": "^2.0.0",
     "todomvc-common": "^1.0.0"
+  },
+  "devDependencies": {
+    "angular-route": "^1.5.8",
+    "angular-router": "^0.0.2"
   }
 }

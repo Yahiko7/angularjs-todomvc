@@ -1,8 +1,8 @@
+//$location方式，效率高
 (function (angular) {
 	'use strict';
 
 	var todoApp = angular.module('todoApp',[]);
-	
 	
 	todoApp.controller('todoController',['$scope','$location',function($scope,$location){
 		
@@ -127,6 +127,5 @@
 		}
 		
 	}])
-	
 	
 })(angular);
